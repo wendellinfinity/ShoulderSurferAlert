@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoulderSurferAlert", "ShoulderSurferAlert\ShoulderSurferAlert.csproj", "{B8B35163-70D8-4468-8F45-5CF21E1CE94B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoulderSurferAlertConsole", "ShoulderSurferAlertConsole\ShoulderSurferAlertConsole.csproj", "{4E785B88-C783-4587-A388-B29E226F1726}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8B35163-70D8-4468-8F45-5CF21E1CE94B}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{B8B35163-70D8-4468-8F45-5CF21E1CE94B}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{B8B35163-70D8-4468-8F45-5CF21E1CE94B}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{B8B35163-70D8-4468-8F45-5CF21E1CE94B}.Debug|x86.ActiveCfg = Debug|x86
+		{B8B35163-70D8-4468-8F45-5CF21E1CE94B}.Debug|x86.Build.0 = Debug|x86
+		{B8B35163-70D8-4468-8F45-5CF21E1CE94B}.Release|Any CPU.ActiveCfg = Release|x86
+		{B8B35163-70D8-4468-8F45-5CF21E1CE94B}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{B8B35163-70D8-4468-8F45-5CF21E1CE94B}.Release|Mixed Platforms.Build.0 = Release|x86
+		{B8B35163-70D8-4468-8F45-5CF21E1CE94B}.Release|x86.ActiveCfg = Release|x86
+		{B8B35163-70D8-4468-8F45-5CF21E1CE94B}.Release|x86.Build.0 = Release|x86
+		{4E785B88-C783-4587-A388-B29E226F1726}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{4E785B88-C783-4587-A388-B29E226F1726}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{4E785B88-C783-4587-A388-B29E226F1726}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{4E785B88-C783-4587-A388-B29E226F1726}.Debug|x86.ActiveCfg = Debug|x86
+		{4E785B88-C783-4587-A388-B29E226F1726}.Debug|x86.Build.0 = Debug|x86
+		{4E785B88-C783-4587-A388-B29E226F1726}.Release|Any CPU.ActiveCfg = Release|x86
+		{4E785B88-C783-4587-A388-B29E226F1726}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{4E785B88-C783-4587-A388-B29E226F1726}.Release|Mixed Platforms.Build.0 = Release|x86
+		{4E785B88-C783-4587-A388-B29E226F1726}.Release|x86.ActiveCfg = Release|x86
+		{4E785B88-C783-4587-A388-B29E226F1726}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

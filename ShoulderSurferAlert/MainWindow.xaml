@@ -1,0 +1,8 @@
+﻿<Window x:Class="ShoulderSurferAlert.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="413" Width="458" Background="Black">
+    <Grid>
+        <Image Height="345" HorizontalAlignment="Left" Margin="12,12,0,0" Name="surferView" Stretch="Fill" VerticalAlignment="Top" Width="411" />
+    </Grid>
+</Window>
